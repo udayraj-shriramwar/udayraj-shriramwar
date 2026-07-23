@@ -71,69 +71,96 @@
 
 <table>
 <tr>
-
-<td align="center" width="50%">
+<td width="100%">
 
 ## 🌾 Farm Performance & Forecasting
 
-**Enterprise AI Platform**
+### Enterprise AI Platform
+
+**Tech Stack**
 
 `Python` `Machine Learning` `Flask` `Power BI`
 
+<p align="left">
 <a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
+</tr>
+</table>
 
-<td align="center" width="50%">
+<br>
+
+<table>
+<tr>
+<td width="100%">
 
 ## 🎯 AI Career Guidance
 
-**Intelligent Recommendation System**
+### Intelligent Recommendation System
+
+**Tech Stack**
 
 `Python` `Machine Learning` `Flask`
 
+<p align="left">
 <a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
-
 </tr>
+</table>
 
+<br>
+
+<table>
 <tr>
+<td width="100%">
 
-<td align="center" width="50%">
+## 💳 GiftznMoney AI Platform
 
-## 💳 GiftznMoney AI
+### Customer Intelligence Platform
 
-**Customer Intelligence Platform**
+**Tech Stack**
 
 `Python` `Machine Learning`
 
+<p align="left">
 <a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
+</tr>
+</table>
 
-<td align="center" width="50%">
+<br>
 
-## 📊 Analytics Dashboard
+<table>
+<tr>
+<td width="100%">
 
-**Business Intelligence Dashboard**
+## 📊 Business Intelligence Dashboard
+
+### Interactive Analytics Dashboard
+
+**Tech Stack**
 
 `Power BI` `Python`
 
+<p align="left">
 <a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
-
 </tr>
-
 </table>
 
 ---
