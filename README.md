@@ -85,6 +85,14 @@
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udayraj-shriramwar&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4" />
+</p>
+
+---
+
 # 🤝 Let's Connect
 
 <p align="left">
