@@ -31,136 +31,68 @@
 - 📊 Love turning data into meaningful insights with Power BI
 - 🚀 Looking for Software Development & Data Science opportunities
 
-
 # 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- Matplotlib
-- Seaborn
-
-### 🌐 Frameworks
-
 <p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
+
+### 🌐 Frameworks & Libraries
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
 </p>
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
 </p>
 
 ---
 
-# 🚀 Project Showcase
+# 📊 GitHub Analytics
 
-<table>
-<tr>
-<td width="100%">
-
-## 🌾 Farm Performance & Forecasting
-
-### Enterprise AI Platform
-
-**Tech Stack**
-
-`Python` `Machine Learning` `Flask` `Power BI`
-
-<p align="left">
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=udayraj-shriramwar&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayraj-shriramwar&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
-
-## 🎯 AI Career Guidance
-
-### Intelligent Recommendation System
-
-**Tech Stack**
-
-`Python` `Machine Learning` `Flask`
-
-<p align="left">
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=udayraj-shriramwar&theme=github-dark&hide_border=true"/>
 </p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
-
-## 💳 GiftznMoney AI Platform
-
-### Customer Intelligence Platform
-
-**Tech Stack**
-
-`Python` `Machine Learning`
-
-<p align="left">
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="100%">
-
-## 📊 Business Intelligence Dashboard
-
-### Interactive Analytics Dashboard
-
-**Tech Stack**
-
-`Power BI` `Python`
-
-<p align="left">
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
+
+# 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/udayrajshriramwar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:udayshriramwar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/udayraj-shriramwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
