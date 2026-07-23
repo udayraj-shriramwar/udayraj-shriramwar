@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 About 
+# 👨‍💻 About 
 
 - 🎓 Final Year Information Technology Student
 - 🌱 Currently learning **Advanced Machine Learning, Flask & Model Deployment**
@@ -49,7 +49,7 @@
 ### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&perline=6" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
