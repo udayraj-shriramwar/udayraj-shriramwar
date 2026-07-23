@@ -30,3 +30,39 @@
 - 💻 Building real-world ML applications using Python and Flask
 - 📊 Love turning data into meaningful insights with Power BI
 - 🚀 Looking for Software Development & Data Science opportunities
+
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+</p>
+
+### 🤖 Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+
+### 🌐 Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
+</p>
+
+---
