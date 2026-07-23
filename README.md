@@ -10,7 +10,7 @@
 
 ---
 
-# 🧠 AI Developer Dashboard
+# 🧠 AI Developer Dashboard 
 
 | 👨‍💻 Profile | 🚀 Current Focus |
 |---------------|------------------|
