@@ -66,3 +66,93 @@
 </p>
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 Farm Performance & Forecasting
+
+Machine Learning-based farm analytics platform for performance prediction, forecasting and business insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn` `Flask` `Power BI`
+
+**Key Features**
+- 📈 Farm Performance Prediction
+- 🔮 Production Forecasting
+- 📊 Interactive Dashboard
+- 🤖 Machine Learning Models
+
+🔗 **Repository:** *(Add your repository link here)*
+
+</td>
+
+<td width="50%">
+
+### 🎯 AI Career Guidance System
+
+AI-powered web application that recommends career paths based on student profiles.
+
+**Tech Stack**
+
+`Python` `Flask` `Machine Learning`
+
+**Key Features**
+- 🎓 Career Recommendation
+- 🤖 ML Classification
+- 🌐 Flask Web App
+- 📋 Student Analysis
+
+🔗 **Repository:** *(Add your repository link here)*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💳 GiftznMoney AI Platform
+
+Customer analytics platform with prediction and recommendation models.
+
+**Tech Stack**
+
+`Python` `Machine Learning`
+
+**Key Features**
+- 💰 Customer Segmentation
+- ⚠ Fraud Detection
+- 📉 Churn Prediction
+- 🎁 Recommendation System
+
+🔗 **Repository:** *(Add your repository link here)*
+
+</td>
+
+<td width="50%">
+
+### 📊 Power BI Dashboard
+
+Business intelligence dashboard for interactive data visualization.
+
+**Tech Stack**
+
+`Power BI` `Python` `Excel`
+
+**Key Features**
+- 📈 KPI Dashboard
+- 📊 Interactive Reports
+- 📉 Trend Analysis
+- 📌 Business Insights
+
+🔗 **Repository:** *(Add your repository link here)*
+
+</td>
+</tr>
+</table>
+
+---
