@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Udayraj Shriramwar</h1>
 
-<!--
-**udayraj-shriramwar/udayraj-shriramwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Machine Learning Enthusiast • Data Science • Python Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 Final Year B.E. Information Technology Student <br>
+📍 Pune, Maharashtra, India <br>
+💡 Passionate about AI, Machine Learning, Data Science & Software Development
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final Year Information Technology Student
+- 🌱 Currently learning **Advanced Machine Learning, Flask & Model Deployment**
+- 🤖 Interested in **Machine Learning, Artificial Intelligence & Data Science**
+- 💻 Building real-world ML applications using Python and Flask
+- 📊 Love turning data into meaningful insights with Power BI
+- 🚀 Looking for Software Development & Data Science opportunities
