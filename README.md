@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋, I'm Udayraj Shriramwar</h1>
 
 <h3 align="center">
-Machine Learning Enthusiast • Data Science • Python Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Data+Science+Student;Python+Developer;Flask+Developer;Power+BI+Developer;Always+Learning+New+Technologies" />
+
 </h3>
 
 <p align="center">
