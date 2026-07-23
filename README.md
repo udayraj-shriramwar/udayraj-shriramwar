@@ -67,92 +67,73 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Project Showcase
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌾 Farm Performance & Forecasting
+<td align="center" width="50%">
 
-Machine Learning-based farm analytics platform for performance prediction, forecasting and business insights.
+## 🌾 Farm Performance & Forecasting
 
-**Tech Stack**
+**Enterprise AI Platform**
 
-`Python` `Pandas` `Scikit-learn` `Flask` `Power BI`
+`Python` `Machine Learning` `Flask` `Power BI`
 
-**Key Features**
-- 📈 Farm Performance Prediction
-- 🔮 Production Forecasting
-- 📊 Interactive Dashboard
-- 🤖 Machine Learning Models
-
-🔗 **Repository:** *(Add your repository link here)*
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-### 🎯 AI Career Guidance System
+## 🎯 AI Career Guidance
 
-AI-powered web application that recommends career paths based on student profiles.
+**Intelligent Recommendation System**
 
-**Tech Stack**
+`Python` `Machine Learning` `Flask`
 
-`Python` `Flask` `Machine Learning`
-
-**Key Features**
-- 🎓 Career Recommendation
-- 🤖 ML Classification
-- 🌐 Flask Web App
-- 📋 Student Analysis
-
-🔗 **Repository:** *(Add your repository link here)*
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 💳 GiftznMoney AI Platform
+<td align="center" width="50%">
 
-Customer analytics platform with prediction and recommendation models.
+## 💳 GiftznMoney AI
 
-**Tech Stack**
+**Customer Intelligence Platform**
 
 `Python` `Machine Learning`
 
-**Key Features**
-- 💰 Customer Segmentation
-- ⚠ Fraud Detection
-- 📉 Churn Prediction
-- 🎁 Recommendation System
-
-🔗 **Repository:** *(Add your repository link here)*
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-### 📊 Power BI Dashboard
+## 📊 Analytics Dashboard
 
-Business intelligence dashboard for interactive data visualization.
+**Business Intelligence Dashboard**
 
-**Tech Stack**
+`Power BI` `Python`
 
-`Power BI` `Python` `Excel`
-
-**Key Features**
-- 📈 KPI Dashboard
-- 📊 Interactive Reports
-- 📉 Trend Analysis
-- 📌 Business Insights
-
-🔗 **Repository:** *(Add your repository link here)*
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
